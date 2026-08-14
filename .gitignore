@@ -1,0 +1,27 @@
+# Virtual Environment & Packages (محیط مجازی و پکیج‌ها)
+venv/
+env/
+ENV/
+__pycache__/
+*.pyc
+*.pyo
+.gradio/
+
+# Model Weights & Trained Data (فایل‌های سنگین مدل و دیتاست‌ها)
+*.pth
+*.pt
+*.bin
+*.onnx
+.tmp_crnn_test.pth
+farsi_training_data/
+tessdata_trained/
+models/*.pth
+models/*.pt
+
+# Test Results & Caches (نتایج تست و عکس‌های خروجی)
+ocr_test_results/
+
+# Temporary & Environment files
+.env
+.env.local
+*.log

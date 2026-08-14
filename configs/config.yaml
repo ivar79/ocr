@@ -1,0 +1,45 @@
+# OCR Project Configuration
+
+ocr:
+  backend: "tesseract"
+  language: "fas+eng"
+
+# Legacy model paths retained for future replacement, but not used in active runtime.
+detection:
+  weights: "models/pretrained/craft_weights.pth"
+  input_size: 640
+  text_threshold: 0.7
+  link_threshold: 0.4
+  low_text: 0.4
+
+recognition:
+  weights: "models/pretrained/crnn_weights.pth"
+  img_height: 32
+  img_width: 128
+  hidden_size: 256
+  num_channels: 1
+
+training:
+  learning_rate: 0.001
+  batch_size: 32
+  epochs: 100
+  optimizer: "Adam"
+  scheduler: "CosineAnnealingLR"
+  data_dir:
+    train: "data/train"
+    val: "data/val"
+    test: "data/test"
+  checkpoint_dir: "models/pretrained/"
+  seed: 42
+  device: "auto"
+
+preprocessing:
+  target_size: [640, 640]
+  denoise_strength: 10
+  clahe_clip_limit: 2.0
+
+general:
+  device: "auto"
+  seed: 42
+  num_workers: 4
+  languages: ["fa", "en"]

@@ -1,0 +1,17 @@
+--- OCR Test Results (AFTER IMPROVEMENTS) ---
+
+File: 201-min.jpg
+Text: love you Dooset daram Se jhe Casi 5a How are your. Chetori?- GD she Lam sorry: Sharmandam Do.you Spéak English?) Ava inglisi baladi? Steal ceul1-LI
+------------------------------
+File: images (1).jpg
+Text: Why don t you get married? How long have you been living here? sfolS 6 Suh dal Casal Jue ThaWve been living heré for three years? VBS. coh SF Carla wee alg) How many hours do you work a day? What time do you get off:work?.
+------------------------------
+File: images.jpg
+Text: sles U poder Bunt ES eral wl cola portent. Baa Ss yaa Lk Clocat nonl oa Pa Dodge) es Malate thas Slovl de Curve SLY got) BME Cos20Ctritlub Uuilg oas ilacl ular a satay fed eee Ps Parti Nao tS mG aso),. Pewixs (Soft Round) pacasoey bola sons Cell Brush bul fey: Finch ACS REN Hen sa BOD CSM canoe Gb eee ale Uslaalag Ri il ssa eetas ely wary (BUIA) carsales Sal yee) Fo Ups Tuas tear Stalag table les Aaa so.
+------------------------------
+File: Screenshot 2026-07-23 153625.png
+Text: Vv khane-moble.ir/product/ gi x - qa x ____. CG (A Notsecure khane-moble.ir/product/ jgi a w)e e2 lst (Ay) oe Fea 29)9 CO fe ste EbUI abe 9 ab pie old.bt ail alae ls ankio Khane vip CY po who lo lo VIP uwo Vor ubol Mobl. - maw:, eT! OY ee ee x aid; Jf i roe St orca He eR EOS F PRSTES rf. a F Sia - j tgdlana Sem 9 bud) Sduuloe i ee s EE EEL AM URS SEEESR SNES oe Sy A 7 wie hy QMS ta, ae S.A ae a ee ST ary: G3) sly Coal 63a 39 Cros Cubs 39 oud 29 aly Cross x 2Sin0 duwlxo obo yo whl ay 42.5 4ol5 usadipe ue _. pees afl rsa an on Ud) ee Jo patleng Jyh (Gla Aete eet ee) 50 (50 J5la ) 385 Sdloy iy 3u0) ie Go Ceres dale 3 Cole 6 ySla ) GS jbL gle Gio edits yjlanotets Jyl5 ytylass pia 49 915 usloytoljly ayls Ms S daw pur abols oO, rv v nono?svV YVvOvYrm, _ O oOO WSs ole Uni) vail Ln 7 To iylogi IPe,seeje0e S SAB yy Cos stad sata Azyly Juyio g ggh adzs asks gould aliwl 9 a9 sal a.. eee cc ans.:.91 _-.
+------------------------------
+File: Screenshot 2026-08-13 160645.png
+Text: 88 Newsession oO O x e.9 TODO_OPTIMIZATION_TRAINING.md O xawyb jaghas oly (agly 2239 Cust Sly) 2ylailiwl 9 wolg WolS la yio.1 (galziui ly yim Glacrigd US 53 Nazanin Jie nowy Glocrigd Wo) Sglate Gla cigs.2 (yuScys ly td dizoj yy gy GyiuSl Yio Who) aS Cowl tis 3 (shbgo ld yuSe nays Slo Saul acd) sjagi bw gio 4 (29207 Sy LuglSil ad 9 wyld od) HS gic 5 rll py glos shy ddLu g dl LiLiaul sla yio.1 Arial,US, Times New Roman Uic) Gglato laciigs.2 3y1 slau by Sao yuan julw L ygio 3 G AngSs yo 4.09) doled enidg tubs jIy5 gl 591) prglay g wjluuy ojoy adv yo (test_samples pli a audgy Sy iwloe sigitiy iS Egy ly auld Cu g 35 shal uu silo O Build - Gemma 4 268 A4B IT 14s Ask anything, / for commands, for context...
+------------------------------
