@@ -1,0 +1,300 @@
+val_00000.png	شاید صحرا دید چه
+val_00001.png	پایگاه نامه نان من دنیا چیزی
+val_00002.png	من شکست
+val_00003.png	book عصر sister ۴ 6 سلام.
+val_00004.png	تو غذا پزشکی؛
+val_00005.png	ocr یادگیری از روی
+val_00006.png	سازمان intelligence
+val_00007.png	3 هوا توانست
+val_00008.png	نوری دریاچه
+val_00009.png	4 کاراکتر باران
+val_00010.png	سوال فیلم موز فرودگاه
+val_00011.png	سفید پایین نیمهتمام روز علوم خورد
+val_00012.png	گاو میخواهید ۵،
+val_00013.png	8 بود؟
+val_00014.png	پدر fast buy برنامهریزی مدیر هفته
+val_00015.png	number همین میکنند 9 زرد مدرسه،
+val_00016.png	فروخت week درباره گربه؛
+val_00017.png	خواهر shop کوتاه نوری خسته میکند;
+val_00018.png	پایین 7 ۱ روز کوچک computer
+val_00019.png	جنگل hello اسب قرمز دوست،
+val_00020.png	دهان پایگاه وسط
+val_00021.png	نمیدانم پروژه حیوان رود time شرکت
+val_00022.png	۰ موفقیت
+val_00023.png	دیروز ۵ boy برف
+val_00024.png	بازار کارمند
+val_00025.png	آسمان امسال world خانواده country
+val_00026.png	کی سخت
+val_00027.png	ما خسته
+val_00028.png	داده کوچه 9
+val_00029.png	همان انگلیسی انگلیسی ۳ مکان;
+val_00030.png	من بچه
+val_00031.png	مرغ موفقیت دانش
+val_00032.png	۶ نان میوه
+val_00033.png	خواهر کنار دنیا فناوری متن!
+val_00034.png	روستا انگلیسی
+val_00035.png	child قرمز خواست لطفا؛
+val_00036.png	mother خیر اندازه میکنی ۱,
+val_00037.png	باد 8 ۱ حالا
+val_00038.png	دهان آسمان week market ۵
+val_00039.png	برنامه time مدرسه دریاچه بیمار
+val_00040.png	چای پول بازار
+val_00041.png	کوچه هوا سال خانواده نتیجه
+val_00042.png	پل ۹ buy هنر سبز رفت
+val_00043.png	5 phone امسال
+val_00044.png	همان فهمید persian;
+val_00045.png	لطفا تابستان تجربه 9 ۵!
+val_00046.png	میکنیم نیست
+val_00047.png	پدر house fruit ملت ایستگاه
+val_00048.png	سالم معماری ۴
+val_00049.png	2 5;
+val_00050.png	دریا درس حیوان کوچک
+val_00051.png	دنیا blue world please
+val_00052.png	۲ شرکت بله کجا!
+val_00053.png	good میگوید کی خروس world girl
+val_00054.png	number سریع چگونه ما
+val_00055.png	جاده مهم میکرد
+val_00056.png	نمیشود در today نارنجی آن
+val_00057.png	نوشید شب روز نتیجه وسط
+val_00058.png	او دنیا green جغرافیا book
+val_00059.png	نرمافزار 0 که 0 سخن
+val_00060.png	language درخت اطلاعات شب بیمار؟
+val_00061.png	نرمافزار 3 جدید
+val_00062.png	فهمید اینترنت مردم house
+val_00063.png	معماری چیزی
+val_00064.png	فناوری انگلیسی سوال price slow نمیگویم
+val_00065.png	هیچ معماری ظهر زبان
+val_00066.png	گوسفند فروخت فرودگاه شکست جاده
+val_00067.png	work old apple
+val_00068.png	دقیقه خورشید برنامه month
+val_00069.png	و ۲
+val_00070.png	لطفا color ۷ بد تجربه!
+val_00071.png	باد friend شرکت چند اجرا
+val_00072.png	فارسی line غذا غذا همین زیر
+val_00073.png	این سالم 5 خسته علوم
+val_00074.png	دولت number بلند ocr میآید پزشکی
+val_00075.png	چیزی letter میخوانم
+val_00076.png	شبکه letter ۶ اداره میروم
+val_00077.png	دانشجو قیمت همین داد
+val_00078.png	۳ welcome 0 page دفتر,
+val_00079.png	english سگ
+val_00080.png	red موسیقی ۰؛
+val_00081.png	سخت زیبا جدید تاریخ
+val_00082.png	فروخت گربه هفته چشم
+val_00083.png	ملت آبی خارج آسمان میروم
+val_00084.png	بازار چند;
+val_00085.png	شب line
+val_00086.png	فردا ۰ red 1
+val_00087.png	کار 3
+val_00088.png	گرفت کی میوه
+val_00089.png	کارمند خواهر؟
+val_00090.png	3 persian price city پارسال
+val_00091.png	head چرا head بزرگراه بهار
+val_00092.png	باشد زن شنید night
+val_00093.png	فردا ۲ کلام اتوبوس
+val_00094.png	word کاراکتر چرا امشب پل به,
+val_00095.png	قیمت ۸ میدانم شاید پردازش هیچ.
+val_00096.png	دنیا هنر food شیر بهار,
+val_00097.png	۰ زیاد بازار بیمار.
+val_00098.png	صبح با کوتاه day خانواده!
+val_00099.png	city good
+val_00100.png	learning اینجا
+val_00101.png	سیستم چرا هنر نیست چرا ۷
+val_00102.png	قیمت بود 2
+val_00103.png	داده مشتری روز کامپیوتر apple دریا
+val_00104.png	بچه بیمار دولت لطفا فروش ماشین.
+val_00105.png	کنار خرید من بدون امروز
+val_00106.png	به هدف؛
+val_00107.png	مکان میدانم
+val_00108.png	آمد حیوان green مادر
+val_00109.png	کم چگونه boy گربه جغرافیا morning
+val_00110.png	کتاب برخی پسر نوع ملت دهان
+val_00111.png	باد ۶ پایگاه
+val_00112.png	easy درس؟
+val_00113.png	book bread
+val_00114.png	۲ man صحرا نوشید پسر پاییز
+val_00115.png	هر موز میدانم هواپیما city کوتاه
+val_00116.png	phone قرمز ما گربه میخواهید ۲
+val_00117.png	computer نیمهتمام نوع نامه کنار ۵؛
+val_00118.png	نرمافزار سر مادر,
+val_00119.png	مکان آن 1 همان پایین 9،
+val_00120.png	آتش month recognition هواپیما ملت
+val_00121.png	آفتاب داد;
+val_00122.png	hello 3
+val_00123.png	سخت بد
+val_00124.png	8 دانشجو قیمت بعد
+val_00125.png	مرغ ایستگاه ۵ today
+val_00126.png	today نارنجی ۰ ocr name پسر،
+val_00127.png	نارنجی نیست میخوانم جایی.
+val_00128.png	مغازه دفتر
+val_00129.png	boy ماشین ستاره سلام man
+val_00130.png	برنامه جدید
+val_00131.png	چند سخن ماشین رفت
+val_00132.png	کاراکتر میکنم خوب
+val_00133.png	ریاضی خواهر خروس چگونه
+val_00134.png	بد بچه صحرا
+val_00135.png	جامعه آنجا سریع؟
+val_00136.png	کامپیوتر گفت سیستم
+val_00137.png	خسته بازار کشور دیروز
+val_00138.png	دقیقه دست خورشید نان
+val_00139.png	توانست جدید سازمان نتیجه
+val_00140.png	قلب مکان
+val_00141.png	پایگاه کتاب learning پدر کوچه
+val_00142.png	مهارت نوشت کوتاه میخواهید جواب
+val_00143.png	خسته میکرد،
+val_00144.png	میوه تابستان اینجا
+val_00145.png	بعد بیفایده
+val_00146.png	train هنر
+val_00147.png	۷ ۷ سال مرغ
+val_00148.png	ماه test زیاد شبکه بالا متن
+val_00149.png	بسته هوش چگونه good برف
+val_00150.png	آمد بیخانمان تشخیص
+val_00151.png	نوشت جایی
+val_00152.png	سالم بالا ابر جغرافیا دفتر؛
+val_00153.png	چای ۴ شهر
+val_00154.png	coffee هوش 6 تو نیمهتمام
+val_00155.png	پس 3 روستا میکنیم روز phone
+val_00156.png	دانش و گل کشور!
+val_00157.png	کامپیوتر نمیگویم دانست
+val_00158.png	فناوری مهندسی
+val_00159.png	هدف food چیزی اکنون نوشت فروش
+val_00160.png	shop روی برای خورد غذا
+val_00161.png	بازی خوشحال
+val_00162.png	میدانم زبان؟
+val_00163.png	هدف متن اکنون letter
+val_00164.png	big hello
+val_00165.png	ممکن 5 سیاه;
+val_00166.png	همین ایستگاه ۴;
+val_00167.png	نمیدانم fruit موفقیت موسیقی
+val_00168.png	sell چیزی کار قدیم باران!
+val_00169.png	آتش قرارداد میکند دوچرخه تابستان!
+val_00170.png	کجا پسر مغازه ریاضی
+val_00171.png	car قبل ۶ دریا
+val_00172.png	میکنم 2 coffee machine؛
+val_00173.png	لطفا 5 جنگل دانشگاه
+val_00174.png	اکنون day؛
+val_00175.png	برنامه word نوشید
+val_00176.png	دنیا time tomorrow ۵ بسته ستاره!
+val_00177.png	دوچرخه داده ما ۰ اتوبوس؛
+val_00178.png	good hello letter دوچرخه گوش
+val_00179.png	۳ سبز کم چیزی.
+val_00180.png	میخواهم زرد
+val_00181.png	head پزشکی آسان معماری به
+val_00182.png	من ۰ زیر دوست کالا دست
+val_00183.png	7 مدرسه ۹ فرودگاه;
+val_00184.png	tomorrow ماشین اسب فارسی,
+val_00185.png	slow برنامهریزی ۷ خوب یادگیری خوشحال
+val_00186.png	کرده میکنیم گفت head
+val_00187.png	3 خارج دیروز
+val_00188.png	خیر نرمافزار بیسواد نامه
+val_00189.png	3 به برف دریاچه باز قلب
+val_00190.png	پروژه این نمیگویم
+val_00191.png	نقاشی 0 text ماهی
+val_00192.png	همین mother نتیجه میآید
+val_00193.png	خانه زیاد
+val_00194.png	گفت غذا برنامهریزی جدید slow دختر;
+val_00195.png	machine نامه 1 روستا بیسواد؛
+val_00196.png	hand بسته موز پرنده سخن گرفت
+val_00197.png	۴ tea
+val_00198.png	ایستگاه پردازش
+val_00199.png	میوه بیخانمان ۹ پسر چه زرد
+val_00200.png	باز today 6
+val_00201.png	مردم english امروز شب نور
+val_00202.png	قطار خواند صبح مکان
+val_00203.png	کالا نرمافزار چگونه نتیجه ملت
+val_00204.png	همهجا سالم!
+val_00205.png	city train به میروم صحرا
+val_00206.png	کار برای بیسواد
+val_00207.png	book کشور همان line پروژه
+val_00208.png	tea هست مرغ؛
+val_00209.png	page پرتقال
+val_00210.png	میخواهم 2
+val_00211.png	خرید small 4 فردا
+val_00212.png	نوع sister child پرنده
+val_00213.png	قدیم سیاه همیشه خوب thank
+val_00214.png	شنید آمد این کوه
+val_00215.png	جامعه processing
+val_00216.png	فروش دریاچه اندازه را
+val_00217.png	نمیدانم ۶ اکنون welcome ستاره
+val_00218.png	عالی orange 9,
+val_00219.png	ماشین شاید سریع
+val_00220.png	fast شرکت
+val_00221.png	کوتاه سبز همه house
+val_00222.png	مرغ امشب نرمافزار،
+val_00223.png	توانست پس دوچرخه فهمید
+val_00224.png	فناوری موسیقی 1,
+val_00225.png	مکان house معلم
+val_00226.png	برنامه ۷ کجا سبز ستاره ۶
+val_00227.png	شب color
+val_00228.png	فروشگاه father جدید ملت،
+val_00229.png	ماهی روی کوتاه دانشجو جایی بود
+val_00230.png	word 5.
+val_00231.png	شاید ابر این
+val_00232.png	هر گاو
+val_00233.png	آنجا اینترنت پول به
+val_00234.png	غذا big گوسفند persian برادر 9;
+val_00235.png	کنار نیست نیست عکس
+val_00236.png	او document
+val_00237.png	در ابر خواند coffee همان؛
+val_00238.png	نور processing
+val_00239.png	هوش چشم اکنون
+val_00240.png	موسیقی man
+val_00241.png	سیستم لطفا car برخی مزایا آفتاب
+val_00242.png	مزایا کالا هوش blue قطار child
+val_00243.png	میخواهم color
+val_00244.png	پاییز کرده شنید 1 پل
+val_00245.png	welcome گوسفند هوا 7 شکست tomorrow
+val_00246.png	هست year شیر صبح دریا
+val_00247.png	موز english
+val_00248.png	english 5 این دانش خواست اطلاعات؛
+val_00249.png	من خسته روز
+val_00250.png	processing کوتاه جامعه مرغ نمیگویم
+val_00251.png	کوه house سوال white
+val_00252.png	5 سوال!
+val_00253.png	مردم ستاره
+val_00254.png	بازی پا ۶ language
+val_00255.png	قهوه امسال sister 1 teacher اینجا
+val_00256.png	day پرتقال ماهی فیلم 6
+val_00257.png	زیبا تصویر بلند پا 8
+val_00258.png	کوه work میدانم
+val_00259.png	میخواهید امشب چه good همیشه
+val_00260.png	۷ fast جواب
+val_00261.png	۲ میکنیم سوال
+val_00262.png	ممکن میآید خواهر درخت old سیب
+val_00263.png	من مغازه گوسفند داخل انگلیسی آمد
+val_00264.png	brother فردا ۱ name به شکست
+val_00265.png	درس اسب
+val_00266.png	پرنده مرغ نرمافزار معماری;
+val_00267.png	بیمار اسب فروش مشتری 2 2
+val_00268.png	language اتوبوس نیمهتمام پزشکی عکس
+val_00269.png	نوری باز;
+val_00270.png	مردم 4 ۸
+val_00271.png	در water؛
+val_00272.png	fast علوم چیزی ۱
+val_00273.png	بازار 0 سوال بلند!
+val_00274.png	نارنجی persian
+val_00275.png	اداره ۲ woman نمیگویم پسر زمستان
+val_00276.png	درباره نور.
+val_00277.png	داد تاریخ قبل میخوانم buy today
+val_00278.png	آسان لازم سلام city بیمار گفت!
+val_00279.png	علوم چند؟
+val_00280.png	پسر آسان 9 من
+val_00281.png	bread بیخانمان
+val_00282.png	اندازه فرودگاه موسیقی کاراکتر ۱
+val_00283.png	سالم خورشید این او word آنجا.
+val_00284.png	hard ۸؛
+val_00285.png	میخواهید چشم باد تصویر چگونه تاریخ.
+val_00286.png	۹ نان بیمار گوش بیمار
+val_00287.png	ماشین حقوق خانواده
+val_00288.png	دنیا جایی test car;
+val_00289.png	اسب لازم خرید ماه
+val_00290.png	معلم نور زمان گفت
+val_00291.png	چرا زمان book
+val_00292.png	مرد هدف
+val_00293.png	سال همیشه شب؟
+val_00294.png	عالی هفته یادگیری coffee
+val_00295.png	و morning
+val_00296.png	یادگیری ظهر لطفا 4 مغازه
+val_00297.png	خانواده انگلیسی
+val_00298.png	مدرسه فارسی green متن
+val_00299.png	آتش امروز چگونه

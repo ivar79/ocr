@@ -1,13 +1,16 @@
-# Virtual Environment & Packages (محیط مجازی و پکیج‌ها)
+# Virtual Environment & Packages
 venv/
 env/
 ENV/
 __pycache__/
 *.pyc
 *.pyo
+.pytest_cache/
 .gradio/
+.freebuff/
 
-# Model Weights & Trained Data (فایل‌های سنگین مدل و دیتاست‌ها)
+# Model Weights & Trained Data
+# Note: models/pretrained/crnn_weights.pth is tracked for convenience
 *.pth
 *.pt
 *.bin
@@ -15,13 +18,49 @@ __pycache__/
 .tmp_crnn_test.pth
 farsi_training_data/
 tessdata_trained/
-models/*.pth
-models/*.pt
+!models/pretrained/crnn_weights.pth
 
-# Test Results & Caches (نتایج تست و عکس‌های خروجی)
+# Test Results & Caches
 ocr_test_results/
+
+# Images (keep only test_samples)
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tiff
+*.webp
+!test_samples/*.png
+!test_samples/*.jpg
+!test_samples/*.jpeg
+
+# Data images (ignore image files, keep labels)
+data/*/images/
+data/processed/
+data/raw/
+
+# Logs and temporary files
+*.log
+training_log.txt
+training_run_*.log
+train_run.log
+test_results_log.txt
+benchmark_*.txt
+optimization_*.txt
 
 # Temporary & Environment files
 .env
 .env.local
-*.log
+tree_structure.txt
+
+# Documentation drafts (keep only main docs)
+*.md
+!README.md
+!QUICK_START_*.md
+!CHANGELOG_*.md
+!ROADMAP_*.md
+!OPTIMIZATION_*.md
+!STATUS.md
+!SESSION_REPORT*.md
+!TODO_*.md
+!AGENTS.md

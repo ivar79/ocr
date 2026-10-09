@@ -1,10 +1,14 @@
 # OCR Project Configuration
 
 ocr:
-  backend: "tesseract"
+  backend: "tesseract"          # tesseract | crnn (falls back to tesseract if untrained)
   language: "fas+eng"
+  enable_retry: true
+  confidence_threshold: 0.5
+  max_retries: 2                # max alternative PSM attempts when confidence is low
+  crnn_weights: "models/pretrained/crnn_weights.pth"
 
-# Legacy model paths retained for future replacement, but not used in active runtime.
+# Legacy model paths retained for future replacement
 detection:
   weights: "models/pretrained/craft_weights.pth"
   input_size: 640
@@ -16,13 +20,15 @@ recognition:
   weights: "models/pretrained/crnn_weights.pth"
   img_height: 32
   img_width: 128
-  hidden_size: 256
+  hidden_size: 512          # arch params are persisted in the checkpoint (increased from 128 for better accuracy)
+  cnn_scale: 1.0            # 1.0 = full-size CRNN; lower = faster on CPU (increased from 0.5 for better accuracy)
   num_channels: 1
 
 training:
-  learning_rate: 0.001
-  batch_size: 32
-  epochs: 100
+  learning_rate: 0.003      # bumped from 0.001 (session 2026-08-23): convergence was too slow
+  # resume: "models/pretrained/crnn_weights.pth"  # uncomment or pass --resume to warm-start
+  batch_size: 64            # increased from 32 for GPU training
+  epochs: 200               # increased from 100 for better convergence
   optimizer: "Adam"
   scheduler: "CosineAnnealingLR"
   data_dir:
@@ -32,11 +38,20 @@ training:
   checkpoint_dir: "models/pretrained/"
   seed: 42
   device: "auto"
+  patience: 20              # increased from 8 to allow more training time before early stopping
+  min_epochs: 30            # increased from 10 to ensure model has enough time to learn
 
 preprocessing:
   target_size: [640, 640]
-  denoise_strength: 10
-  clahe_clip_limit: 2.0
+  upscale_factor: 2
+  clahe_clip_limit: 3.0
+  clahe_tile_size: 8
+  denoise_strength: 75
+  enable_fast_denoise: true
+  mode: "auto"                  # auto | fast | full
+  fast_min_sharpness: 150.0     # min Laplacian variance for the fast path
+  fast_min_binary_fraction: 0.4 # min share of near-binary pixels for the fast path
+  max_deskew_area: 2000000      # skip deskew for larger images
 
 general:
   device: "auto"
